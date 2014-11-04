@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="unspecified" >
+        <source path="/Users/stephanohuguestelolahy/Documents/Github/GameTutorial/jumperGameTutorial/build/intermediates/exploded-aar/GameTutorial/andEngine/unspecified/res" />
+    </dataSet>
+    <dataSet config="unspecified" >
+        <source path="/Users/stephanohuguestelolahy/Documents/Github/GameTutorial/jumperGameTutorial/build/intermediates/exploded-aar/GameTutorial/andEnginePhysicsBox2DExtension/unspecified/res" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/stephanohuguestelolahy/Documents/Github/GameTutorial/jumperGameTutorial/src/main/res" >
+            <file
+                name="ic_launcher"
+                path="/Users/stephanohuguestelolahy/Documents/Github/GameTutorial/jumperGameTutorial/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/stephanohuguestelolahy/Documents/Github/GameTutorial/jumperGameTutorial/src/main/res/drawable-ldpi/ic_launcher.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/stephanohuguestelolahy/Documents/Github/GameTutorial/jumperGameTutorial/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/stephanohuguestelolahy/Documents/Github/GameTutorial/jumperGameTutorial/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                path="/Users/stephanohuguestelolahy/Documents/Github/GameTutorial/jumperGameTutorial/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="app_name" >Jumper Game Tutorial
+                </string>
+            </file>
+            <file
+                path="/Users/stephanohuguestelolahy/Documents/Github/GameTutorial/jumperGameTutorial/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Light" />
+            </file>
+            <file
+                path="/Users/stephanohuguestelolahy/Documents/Github/GameTutorial/jumperGameTutorial/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.Light" />
+            </file>
+            <file
+                path="/Users/stephanohuguestelolahy/Documents/Github/GameTutorial/jumperGameTutorial/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" />
+            </file>
+        </source>
+        <source path="/Users/stephanohuguestelolahy/Documents/Github/GameTutorial/jumperGameTutorial/build/generated/res/rs/debug" />
+        <source path="/Users/stephanohuguestelolahy/Documents/Github/GameTutorial/jumperGameTutorial/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/stephanohuguestelolahy/Documents/Github/GameTutorial/jumperGameTutorial/src/debug/res" />
+    </dataSet>
+
+</merger>

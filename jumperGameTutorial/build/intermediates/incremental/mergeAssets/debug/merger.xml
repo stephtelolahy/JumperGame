@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="unspecified" >
+        <source path="/Users/stephanohuguestelolahy/Documents/Github/GameTutorial/jumperGameTutorial/build/intermediates/exploded-aar/GameTutorial/andEngine/unspecified/assets" />
+    </dataSet>
+    <dataSet config="unspecified" >
+        <source path="/Users/stephanohuguestelolahy/Documents/Github/GameTutorial/jumperGameTutorial/build/intermediates/exploded-aar/GameTutorial/andEnginePhysicsBox2DExtension/unspecified/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/stephanohuguestelolahy/Documents/Github/GameTutorial/jumperGameTutorial/src/main/assets" >
+            <file
+                name="font/font.ttf"
+                path="/Users/stephanohuguestelolahy/Documents/Github/GameTutorial/jumperGameTutorial/src/main/assets/font/font.ttf" />
+            <file
+                name="gfx/game/coin.png"
+                path="/Users/stephanohuguestelolahy/Documents/Github/GameTutorial/jumperGameTutorial/src/main/assets/gfx/game/coin.png" />
+            <file
+                name="gfx/game/levelCompleteWindow.png"
+                path="/Users/stephanohuguestelolahy/Documents/Github/GameTutorial/jumperGameTutorial/src/main/assets/gfx/game/levelCompleteWindow.png" />
+            <file
+                name="gfx/game/platform1.png"
+                path="/Users/stephanohuguestelolahy/Documents/Github/GameTutorial/jumperGameTutorial/src/main/assets/gfx/game/platform1.png" />
+            <file
+                name="gfx/game/platform2.png"
+                path="/Users/stephanohuguestelolahy/Documents/Github/GameTutorial/jumperGameTutorial/src/main/assets/gfx/game/platform2.png" />
+            <file
+                name="gfx/game/platform3.png"
+                path="/Users/stephanohuguestelolahy/Documents/Github/GameTutorial/jumperGameTutorial/src/main/assets/gfx/game/platform3.png" />
+            <file
+                name="gfx/game/player.png"
+                path="/Users/stephanohuguestelolahy/Documents/Github/GameTutorial/jumperGameTutorial/src/main/assets/gfx/game/player.png" />
+            <file
+                name="gfx/game/star.png"
+                path="/Users/stephanohuguestelolahy/Documents/Github/GameTutorial/jumperGameTutorial/src/main/assets/gfx/game/star.png" />
+            <file
+                name="gfx/menu/menu_background.png"
+                path="/Users/stephanohuguestelolahy/Documents/Github/GameTutorial/jumperGameTutorial/src/main/assets/gfx/menu/menu_background.png" />
+            <file
+                name="gfx/menu/options.png"
+                path="/Users/stephanohuguestelolahy/Documents/Github/GameTutorial/jumperGameTutorial/src/main/assets/gfx/menu/options.png" />
+            <file
+                name="gfx/menu/play.png"
+                path="/Users/stephanohuguestelolahy/Documents/Github/GameTutorial/jumperGameTutorial/src/main/assets/gfx/menu/play.png" />
+            <file
+                name="gfx/splash.png"
+                path="/Users/stephanohuguestelolahy/Documents/Github/GameTutorial/jumperGameTutorial/src/main/assets/gfx/splash.png" />
+            <file
+                name="level/1.lvl"
+                path="/Users/stephanohuguestelolahy/Documents/Github/GameTutorial/jumperGameTutorial/src/main/assets/level/1.lvl" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/stephanohuguestelolahy/Documents/Github/GameTutorial/jumperGameTutorial/src/debug/assets" />
+    </dataSet>
+
+</merger>
